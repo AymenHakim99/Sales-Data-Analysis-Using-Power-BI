@@ -10,8 +10,14 @@ It is not a good practice to connect directly with the database as it may cause 
 
 ![cleaning](https://user-images.githubusercontent.com/67188835/118291986-d8ecbe80-b4e0-11eb-8a45-119fcd9bd99e.PNG)
 
+
+
 * the pipeline performed to the transaction table:
 ![pipeline](https://user-images.githubusercontent.com/67188835/118292350-341eb100-b4e1-11eb-8b04-0fa56287f8e6.PNG)
+
+
+
+
 
 * The dashboard built to generate sales insights:
 ![Dashbord](https://user-images.githubusercontent.com/67188835/118292606-79db7980-b4e1-11eb-9624-cb2b6cc06a5e.PNG)
