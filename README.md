@@ -1,4 +1,4 @@
-# Sales-Data-Analysis-Using-Power-BI
+# Sales Data Analysis Using Power BI
 * In this project, I built a Power BI dashboard that can provide real-time sales insights for a company.
 It is not a good practice to connect directly with the database as it may cause some issues such as a potential slowdown in the system( instead a data warehouse should be established), but for simplicity, I avoided this part. 
 
