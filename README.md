@@ -13,6 +13,9 @@ It is not a good practice to connect directly with the database as it may cause 
 
 
 * the pipeline performed to the transaction table:
+
+
+
 ![pipeline](https://user-images.githubusercontent.com/67188835/118292350-341eb100-b4e1-11eb-8b04-0fa56287f8e6.PNG)
 
 
